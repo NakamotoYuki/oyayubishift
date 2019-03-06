@@ -1,0 +1,11 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$primary-color: #FF5733;
+
+div {
+  color: $primary-color;
+}
+
+.hidden {
+  display: none;
+}
